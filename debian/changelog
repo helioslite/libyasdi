@@ -1,3 +1,9 @@
+libyasdi (1.8.1.9-1+hl~1) wheezy; urgency=low
+
+  * Build custom HeliosLite version for wheezy
+
+ -- Bruno Binet <bruno.binet@helioslite.com>  Wed, 05 Nov 2014 11:47:16 +0100
+
 libyasdi (1.8.1.9-1) unstable; urgency=low
 
   * Initial release of 1.8.1Build9
