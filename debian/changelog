@@ -1,3 +1,9 @@
+libyasdi (1.8.1.9+hl1) stable; urgency=low
+
+  * build stable distribution
+
+ -- Bruno Binet <bruno.binet@gmail.com>  Fri, 05 Jun 2015 10:10:27 +0200
+
 libyasdi (1.8.1.9-1+hl~1) wheezy; urgency=low
 
   * Build custom HeliosLite version for wheezy
